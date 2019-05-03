@@ -14,4 +14,6 @@ export class App extends Component {
   }
 };
 
+const mapDispatchToProps
+
 export default App;

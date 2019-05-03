@@ -15,7 +15,7 @@ export class App extends Component {
 };
 
 const mapStateToProps = state => {
-  
+
 }
 
 export default App;

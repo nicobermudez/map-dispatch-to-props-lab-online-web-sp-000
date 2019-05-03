@@ -14,7 +14,7 @@ export class App extends Component {
   }
 };
 
-const mapDispatchToProps = state => {
+const mapStateToProps = state => {
   
 }
 

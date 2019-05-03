@@ -20,4 +20,4 @@ const mapStateToProps = state => {
   }
 }
 
-export default connect(mapSateToProps, { })App;
+export default connect(mapSateToProps, mapDispatchToProps)App;
